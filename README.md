@@ -2,4 +2,4 @@
 
 ##Building a RESTful Web Service
 
-This guide walks you through the process of creating a "hello world" RESTful web service with Spring.[spring-guides-rest]（http://spring.io/guides/gs/rest-service/）
+This guide walks you through the process of creating a "hello world" RESTful web service with Spring.[spring-guides-rest](http://spring.io/guides/gs/rest-service/)
