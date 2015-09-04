@@ -6,7 +6,12 @@
 
     <groupId>com.larry</groupId>
     <artifactId>rest-service</artifactId>
+    <packaging>pom</packaging>
     <version>0.1.0</version>
+    <modules>
+        <module>Building-RESTful-Web-Service</module>
+        <module>Consuming-RESTful-Web-Service</module>
+    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
